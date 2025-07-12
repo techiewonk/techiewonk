@@ -1,8 +1,10 @@
 name: update-gh-activity
-
 on:
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # runs in 15 minutes from now
+    - cron: "15 * * * *"
 
 jobs:
   build:
