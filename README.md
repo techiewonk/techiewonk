@@ -8,9 +8,9 @@
 <img
 src="static/Hi.gif" height="32" /></h1>
 
-![Github Stats](https://github-readme-stats-beryl-beta-13.vercel.app/api?username=techiewonk&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&custom_title=Private&text_bold=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&line_height=20&card_width=282px)
+![Github Stats](https://github-readme-stats-beryl-beta-13.vercel.app/api?username=techiewonk&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&custom_title=Private&text_bold=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&line_height=20&card_width=262px)
 ![Top Langs](https://github-readme-stats-beryl-beta-13.vercel.app/api/top-langs/?username=techiewonk&layout=compact&hide=CSS&langs_count=10&size_weight=0&count_weight=1&hide_border=true&theme=transparent&card_width=282px)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=techiewonk&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&custom_title=Public&show=reviews,prs_merged,prs_merged_percentage&line_height=20&hide_border=true&card_width=282px)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=techiewonk&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&custom_title=Public&show=reviews,prs_merged,prs_merged_percentage&line_height=20&hide_border=true&card_width=262px)
 
 
 
