@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=techiewonk%20|%20HeMBaD&reversal=true&textBg=false&fontSize=40&fontAlign=51&animation=twinkling"/>
 </p>
+<a href="#"><img align="right" src="static/banner.gif" width="200 " height="200" /></a>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://hembad.notion.site/Hemprasad-Badgujar-f57e83def98743e089797958e5c8deef" target="_blank">Hemprasad Badgujar </a> 
+<img
+src="static/Hi.gif" height="32" /></h1>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=techiewonk&theme=darkhub&column=-1" />
 </p>
