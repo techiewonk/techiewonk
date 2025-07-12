@@ -7,6 +7,15 @@
 <h1 align="center">Hi there, I'm <a href="https://hembad.notion.site/Hemprasad-Badgujar-f57e83def98743e089797958e5c8deef" target="_blank">Hemprasad Badgujar </a> 
 <img
 src="static/Hi.gif" height="32" /></h1>
+
+![Github Stats](https://github-readme-stats-beryl-beta-13.vercel.app/api?username=techiewonk&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&custom_title=Private&text_bold=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-beryl-beta-13.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=CSS&langs_count=18&size_weight=0&count_weight=1)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=techiewonk&show_icons=true&theme=transparent&hide_rank=true&include_all_commits=true&custom_title=Public&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=CSS&langs_count=18)
+
+
+
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=techiewonk&theme=darkhub&column=-1" />
 </p>
