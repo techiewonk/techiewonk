@@ -5,7 +5,8 @@ on:
   workflow_dispatch:
   schedule:
     # runs in 15 minutes from now
-    - cron: "15 * * * *"
+    - cron: "0 0 * * *"
+
 
 jobs:
   update-readme:
