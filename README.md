@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=techiewonk%20|%20HeMBaD&reversal=true&textBg=false&fontSize=40&fontAlign=51&animation=twinkling"/>
 </p>
-<a href="#"><img align="right" src="static/banner.gif" width="200 " height="200" /></a>
-
+<a href="#"><img align="right" src="static/banner.gif" width="50 " height="50" /></a>
+<a href="#"><img align="left" src="static/banner.gif" width="50 " height="50" /></a>
 
 <h1 align="center">Hi there, I'm <a href="https://hembad.notion.site/Hemprasad-Badgujar-f57e83def98743e089797958e5c8deef" target="_blank">Hemprasad Badgujar </a> 
 <img
