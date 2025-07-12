@@ -6,6 +6,10 @@
 
 ## Hi there 👋
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techiewonk&theme=react-dark&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!--
 **techiewonk/techiewonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
