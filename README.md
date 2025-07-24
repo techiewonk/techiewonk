@@ -22,7 +22,7 @@ src="static/Hi.gif" height="32" /></h1> -->
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techiewonk&theme=react-dark&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![activity graph](https://hembad.notion.site/Hemprasad-Badgujar-f57e83def98743e089797958e5c8deef)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://hembad.notion.site/Hemprasad-Badgujar-f57e83def98743e089797958e5c8deef)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://hembad.notion.site/Hemprasad-Badgujar-f57e83def98743e089797958e5c8deef)
 
 
 
